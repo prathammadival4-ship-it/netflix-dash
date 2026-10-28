@@ -8,7 +8,7 @@ Show Image Show Image Show Image Show Image Show Image Show Image
 
 </div>
 🖥️ Dashboard Preview
-<div align="center"> <img src="images/dashboard.png" alt="Netflix Power BI Dashboard" width="95%"/>
+<div align="center"> <img src="dash.png" alt="Netflix Power BI Dashboard" width="95%"/>
 
 <sub>Dark, Netflix-inspired interface with slicers that cross-filter every visual.</sub>
 
