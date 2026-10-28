@@ -1,6 +1,5 @@
 <div align="center"> <img src="banner.svg" alt="Netflix Content Analytics Dashboard" width="100%"/> <br/>
 
-Typing SVG
 
 Show Image Show Image Show Image Show Image Show Image Show Image
 
