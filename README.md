@@ -143,9 +143,9 @@ Show Image Show Image Show Image Show Image
 👤 Author
 <div align="center">
 
-Your Name
+Pratham madival
 
-LinkedIn GitHub Email
+prathammadival4@gmail.com
 
 ⭐ If you like this project, give it a star! ⭐
 
