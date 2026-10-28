@@ -1,4 +1,4 @@
-<div align="center"> <img src="images/banner.svg" alt="Netflix Content Analytics Dashboard" width="100%"/> <br/>
+<div align="center"> <img src="banner.svg" alt="Netflix Content Analytics Dashboard" width="100%"/> <br/>
 
 Typing SVG
 
